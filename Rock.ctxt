@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Rock
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Rock\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ act\ will\ call\ for\ explode()\ method\r\n\ @param\ There\ is\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\ \r\n
+comment2.params=
+comment2.target=void\ explode()
+comment2.text=\r\n\ explode\ will\ play\ MetalExplosion.wav,\ then\ use\ a\ for\ loop\ to\ \r\n\ add\ 50\ new\ Debris\ objects\ to\ the\ world.\ After\ the\ for\ loop,\ \r\n\ it\u2019ll\ remove\ itself\ from\ the\ world\r\n\ \r\n\ @param\ There\ is\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\ \r\n
+numComments=3
